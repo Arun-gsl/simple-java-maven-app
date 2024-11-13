@@ -71,8 +71,7 @@
         </executions>
       </plugin>
     </plugins>
-  </build>
-</project>
+ </build>
  <distributionManagement>
         <repository>
             <id>nexus-test-releases</id> <!-- Match this ID with the settings.xml -->
