@@ -75,7 +75,7 @@
  <distributionManagement>
         <repository>
             <id>nexus-test-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://43.205.143.164:8081/repository/ansible-jenkins-integration/</url>
+            <url>http://13.233.172.38:8081/repository/jenkins-ansible-integration/</url>
         </repository>
     </distributionManagement>
 </project>
